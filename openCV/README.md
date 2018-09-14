@@ -4,5 +4,7 @@ File __geometric_transformations.py__ is a set of tips and tricks for image tran
 
     - loading image
     - plotting image
+    - split by channels
+    -
 
 
